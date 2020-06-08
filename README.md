@@ -1,4 +1,4 @@
-# JS120 Code Repository
+# JS130 Code Repository
 
 ## How to start a new code repository
 
@@ -18,7 +18,8 @@
 Probably because I am using `nvm`, I had to install babel-eslint locally to make `eslint` to work. You don't need to worry about `eslint-cli` which is also not working...
 
 ```shell
+npm install eslint --save-dev
 npm install babel-eslint --save-dev
 ```
 
-Also you need to copy `eslintrc.yml` from JS101 folder and put it in the project root folder.
+Also you need to copy `.eslintrc.yml` from JS101 folder and put it in the project root folder.
