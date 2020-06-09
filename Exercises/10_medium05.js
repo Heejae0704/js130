@@ -24,5 +24,3 @@ class Luhn {
 }
 
 module.exports = Luhn;
-
-console.log(new Luhn("0000 0").str);
